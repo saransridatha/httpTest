@@ -1,0 +1,6 @@
+# Compiled binaries
+a.out
+script
+
+# Test artifacts
+*.json
